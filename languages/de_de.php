@@ -17,7 +17,7 @@ $app_strings = Array(
 
 'de_de'=>"Deutsch",
 'customerportal'=>'Kundenportal',
-'LBL_LOGIN'=>'Login',
+'LBL_LOGIN'=>'Anmelden',
 'LBL_USER_NAME'=>'Benutzer ID:',
 'LBL_PASSWORD'=>'Passwort:',
 'LNK_HOME'=>'Home',
@@ -88,17 +88,17 @@ $app_strings = Array(
 'Solution' =>'Solution',
 
 //My settings
-'LBL_CHANGE_PASSWORD'=>'Change Password',
-'LBL_OLD_PASSWORD'=>'Old Password',
-'LBL_NEW_PASSWORD'=>'New Password',
-'LBL_CONFIRM_PASSWORD'=>'Confirm Password',
+'LBL_CHANGE_PASSWORD'=>'Passwort ändern',
+'LBL_OLD_PASSWORD'=>'Altes Passwort',
+'LBL_NEW_PASSWORD'=>'Neues Passwort',
+'LBL_CONFIRM_PASSWORD'=>'Passwort bestätigen',
 'LBL_MY_DETAILS'=>'My Details',
-'LBL_LAST_LOGIN'=>'Last Login',
+'LBL_LAST_LOGIN'=>'Letzte Anmeldung',
 'LBL_SUPPORT_START_DATE'=>'Support Start Date',
 'LBL_SUPPORT_END_DATE'=>'Support End Date',
-'MSG_PASSWORD_CHANGED'=>'Password has been changed successfully.',
-'MSG_ENTER_NEW_PASSWORDS_SAME'=>'New & Confirm passwords did not match',
-'MSG_YOUR_PASSWORD_WRONG'=>'Incorrect old password.',
+'MSG_PASSWORD_CHANGED'=>'Passwort wurde erfolgreich geändert!',
+'MSG_ENTER_NEW_PASSWORDS_SAME'=>'Neues Passwort & Bestätigung stimmen nicht überein!',
+'MSG_YOUR_PASSWORD_WRONG'=>'Falsches altes Passwort!',
 
 //Added fields for Knowledge Base details
 'LBL_KNOWLEDGE_BASE'=>'Knowledge Base',
@@ -450,7 +450,10 @@ Additionally, you can also search the entire knowledge base by entering keywords
 'INVALID_USERNAME_OR_PASSWORD'=>'The Username or Password is not correct!',
 "UPLOAD_COMPLETED"=>"Upload Completed",
 
-
+// Login form
+"Please Sign In"=>"Bitte anmelden",
+"E-Mail"=>"Benutzername (E-Mail)",
+"Forgot Password"=>"Passwort vergessen",
 );
 
 ?>
