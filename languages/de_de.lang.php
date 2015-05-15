@@ -450,10 +450,7 @@ Ausserdem können Sie die gesamte Wissensbasis durchsuchen indem Sie ein Suchwor
 'INVALID_USERNAME_OR_PASSWORD'=>'Benutzername oder Passwort nicht korrekt!',
 "UPLOAD_COMPLETED"=>"Upload abgeschlossen",
 
-// Login form
-"Please Sign In"=>"Bitte anmelden",
-"E-Mail"=>"Benutzername (E-Mail)",
-"Forgot Password"=>"Passwort vergessen",
+
 );
 
 ?
